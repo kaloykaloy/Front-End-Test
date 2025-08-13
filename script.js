@@ -6,7 +6,7 @@ let current = 0;
 let scaleLevels = [1, 0.85, 0.7, 0.55];
 let xOffsets = [0, 230, 400, 550];
 const yOffsets = [0, 0, 0, 0];
-const opacityLevels = [1, 0.85, 0.7, 0.55];
+const opacityLevels = [1, 1, 1, 1];
 
 const cardImages = [
   ["assets/product1/image2.jpg", "assets/product1/image3.jpg", "assets/product1/image4.jpg", "assets/product1/image1.png"],
